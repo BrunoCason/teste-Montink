@@ -8,11 +8,11 @@ const product: Product = {
   title: "CAMISETA OVERSIZED",
   price: 99.9,
   images: [
-    "/public/oversized-white.png",
-    "/public/oversized-black.png",
-    "/public/oversized-offwhite.png",
-    "/public/oversized-green.png",
-    "/public/oversized-brown.png",
+    "/oversized-white.png",
+    "/oversized-black.png",
+    "/oversized-offwhite.png",
+    "/oversized-green.png",
+    "/oversized-brown.png",
   ],
   variants: {
     sizes: ["P", "M", "G", "GG", "XG"],
